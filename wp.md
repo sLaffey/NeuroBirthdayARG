@@ -2,11 +2,13 @@
 
 ## 生日会回放
 
-以下载后分时段提取的所有帧为准，重新整理一下线索。
+以 b 站 4K 缓存片源下载后分时段提取的所有帧为准，重新整理一下线索。
+
+由于此前依 Web 端解析下载的 1080p 片源整理过，对清晰度要求不高的地方不会更新图源，仅更新帧位置。
 
 ### 5:00-6:30
 
-#### 221 帧
+#### 440 帧
 
 ![alt text](./images/frame_0221.png)
 
@@ -25,7 +27,7 @@ bmfy'x kfpj
 
 凯撒密码，解密得到 `what's real what's fake`
 
-#### 334 帧
+#### 666 帧
 
 ![alt text](./images/frame_0334.png)
 
@@ -43,13 +45,13 @@ base64 解码结果：
 “好吧好吧，最后一个哦。这个故事的主角也叫airis，跟你一样呢……”
 ```
 
-#### 349 帧
+#### 698 帧
 
 ![alt text](./images/frame_0349.png)
 
-后面的数字通过之后的画面可以看出是 5、7、9，暂不清楚含义。
+后面的数字通过之后的画面可以看出是 5、7、9，作为后续三次凯撒密码解密的密钥。
 
-#### 428 帧
+#### 854 帧
 
 ![alt text](./images/frame_0428.png)
 
@@ -57,7 +59,7 @@ base64 解码结果：
 
 背景文字为 `ZVTLAPTLZ H ZVUN APASL PZ TVYL PTWVYAHUA AOHU PAZ SFYPJZ`，凯撒密码破解得到 `SOMETIMES A SONG TITLE IS MORE IMPORTANT THAN ITS LYRICS`。可能是提示我们注意作品名 `themoon`。
 
-#### 444 帧
+#### 886 帧
 
 ![alt text](./images/frame_0444.png)
 
@@ -67,7 +69,7 @@ base64 解码结果：
 
 暂不清楚解密方法。
 
-#### 447 帧
+#### 892 帧
 
 ![alt text](./images/frame_0447.png)
 
@@ -75,7 +77,7 @@ base64 解码结果：
 
 提取文本 `RO HXD MXW'C DWMNABCJWM BXVN XO CQN ADUN, RC VNJWB HXD FXW'C WNNM RC OXA WXF.`，也是凯撒密码，解密得到 `IF YOU DON'T UNDERSTAND SOME OF THE RULE, IT MEANS YOU WON'T NEED IT FOR NOW.`
 
-#### 613-626 帧
+#### 1224-1251 帧
 
 闪过了许多密文，推测是同一文本的内容，所以放在一起了。
 
@@ -121,13 +123,13 @@ base64 解码结果：
 
 暂不清楚解密方法。
 
-#### 627 帧
+#### 1252 帧
 
 ![alt text](./images/frame_0627.png)
 
 不清楚遮挡的字代表什么。
 
-#### 728 帧
+#### 1454 帧
 
 ![alt text](./images/frame_0728.png)
 
@@ -137,7 +139,7 @@ base64 解码结果：
 
 暂不清楚解密方法。
 
-#### 767 帧
+#### 1535 帧
 
 ![alt text](./images/frame_0767.png)
 
@@ -145,11 +147,11 @@ base64 解码结果：
 
 `The key is that the same suffix, with different prefixes, will bring different results.`，不清楚具体用在哪。
 
-#### 864 帧
+#### 1729 帧
 
-![alt text](./images/frame_0864.png)
+![alt text](./images/frame_1729.png)
 
-![alt text](./images/frame_0864-1.png)
+![alt text](./images/frame_1729-1.png)
 
 不太好辨认，以下结果未经核对。
 
@@ -164,19 +166,21 @@ VeFNicaN+gyKJxvFJpLecNJBfL4jnItf9PIBrUDznwGBPCu3pk6Ucg4jAL5ExHYvp/4C11yTw3gUaSu2
 jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZDEUqcHOX5BHMX+BK/byls90Q7deMn
 ```
 
-#### 940 帧
+#### 1879 帧
 
 ![alt text](./images/frame_0940.png)
 
 `Pvydd ksm fnpm qk kalfs tzx dc oedx?`
 
-#### 986 帧
+右上角的人物画像暗示维吉尼亚密码，右下角电脑中的画面为 CyberChef。
 
-![alt text](./images/frame_0986.png)
+#### 1961 帧
+
+![alt text](./images/frame_1961.png)
 
 `Bm cgu grvywxbxjl fl, wpjs cfy jbac fj iypw pw qtou ul howl.`
 
-#### 989-992 帧
+#### 1976-1983 帧
 
 闪过两段加密文本，推测为同一段。
 
@@ -188,103 +192,150 @@ jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZD
 
 ![alt text](./images/frame_0991-1.png)
 
-#### 993 帧
+#### 1984 帧
 
 ![alt text](./images/frame_0993.png)
 
-主要是右侧两个图片的提示，尚不明确用途。
+主要是右侧两个图片的提示.
 
-#### 1068 帧
+上方的图片数字两两分割后得到 `themoon` 在英文字母表中的顺序，`00` 代表空格。
+
+由此猜测下方的图片应按照空格对应 `00`，`a` 对应 `01`，`j` 对应 `10`，`k` 对应 `11` 解读，但进一步如何解密尚不明确。
+
+#### 2135 帧
 
 ![alt text](./images/frame_1068.png)
 
-古文字码，可能是编码错误所致，可以尝试还原。
+古文字码，原文以 UTF-8 编码格式存储后由 GBK 格式读取获得，空白部分可能为空格字符或者未定义区域字符，其它地方可直接还原，结合一部分猜测可完整还原原文。
 
-#### 1069 帧
+红色乱码原文为 `红色药丸代表揭示真相，接受残酷的现实`，蓝色乱码原文为 `蓝色药丸则意味着回到原先的生活并保持对世界的错觉`。
+
+此处两句话出自电影《黑客帝国》的经典台词，结合附近画面可以知道小白选择了蓝色药丸，尚不明确进一步的含义。
+
+#### 2136 帧
 
 ![alt text](./images/frame_1069.png)
 
-同上。
+同上。解密结果为：
 
-#### 1073&1078 帧
+```plaintext
+因此，"蓝色药丸"通常被用来比喻一个人选择逃避现实
+选择保持自己的错觉和舒适区
+```
 
-![alt text](./images/frame_1073.png)
+推测与剧情有关，尚需更多剧情线索。
 
-![alt text](./images/frame_1078.png)
+#### 2145&2155 帧
 
-不清楚是否有加密信息，但看起来可疑。
+![alt text](./images/frame_2145.png)
 
-#### 1092 帧
+![alt text](./images/frame_2155.png)
+
+在更换为 4K 片源后可以辨认出文字，两帧图片内文字相同。
+
+![alt text](./images/7f41818964bda5fa205da115a7d314e5.png)
+
+```plaintext
+&#x4E00;&#x7CFB;&#x5217;&#x610F;&#x8BC6;&#x6D3B;&#x52A8;&#x8FC7;
+&#x540E;&#xFF0C;Phil&#x5E26;&#x7740;&#x8D85;&#x8131;&#x548C;
+&#x4E0D;&#x65ED;&#x4FEL;&#x5FF5;&#x611F;&#x7684;&#x5B64;&#x72EC;
+&#x56DE;&#x5230;&#x73B0;&#x5B9F;&#x3002;&#x4F5C;&#x8005;&#x51DD;
+&#x89C6;&#x6708;&#x4EAF;&#xFF0C;&#x865A;&#x5984;&#x5730;&#x5E7B;
+&#x60F3;&#x6709;&#x6240;&#x6539;&#x53D8;&#xFF0C;&#x5374;&#x53D1;
+&#x73B0;&#x6708;&#x4EAF;&#x4E5F;&#x6B63;&#x51DD;&#x89C6;&#x7740;
+&#x4ED6;&#x3002;&#x6708;&#x5149;&#x4E0B;&#xFF0C;&#x53EA;&#x6709;
+&#x81EA;&#x5DF1;&#x7684;&#x53CC;&#x811A;&#x6E05;&#x6670;&#x53EF;
+&#x89C1;&#x3002;
+```
+
+为 HTML 实体编码，解码得到：
+
+```
+一系列意识活动过
+后，Phil带着超脱和
+不无信念感的孤独
+回到现实。作者凝
+视月亮，虚妄地幻
+想有所改变，却发
+现月亮也正凝视着
+他。月光下，只有
+自己的双脚清晰可
+见。
+```
+
+Phil 为该手书所用歌曲 The Moon 的主唱，全名 Phil Elvrum，乐队名称为 The Microphones，在 2004 年更名为 Mount Eerie。
+
+#### 2185 帧
 
 ![alt text](./images/frame_1092.png)
 
-古文字码。
+古文字码。同样手段解读得到 `令人厌恶的自我沦陷和对沦陷本身的迷恋`。
 
-#### 1143 帧
+#### 2285 帧
 
 ![alt text](./images/frame_1143.png)
 
-同上。
+同上。原文如下：
 
-#### 1151 帧
+```plaintext
+我发誓听见了你的声音
+微光（“the glow”）是遥远的、虚无缥缈的
+```
+
+The Glow 可能是 The Moon 所在专辑 The Glow, Pt. 2 中的一首歌，歌名同样为 The Glow, Pt. 2。
+
+#### 2296 帧
 
 ![alt text](./images/frame_1151.png)
 
-图片中间可能藏有文字，但难以识读。
+图片中间藏有信息。经多张图片 PS 插值混合，可得到文字。
 
-#### 1154-2133 帧
+![alt text](./images/cb0b250d0badd6fc8d8f588698f57d40.png)
+
+`I do not exist`
+
+已知这句话是另外一个与 Neuro 相关的民间 ARG 视频标题，该 ARG 似乎尚未告破，不清楚二者之间是否有进一步的联系。
+
+#### 2306-4265 帧
 
 画面中有不同位置的加密文本，由于视频后期处理效果有些画面难以辨识，尽量挑选出最清晰的一帧。
 
-![alt text](./images/frame_1197.png)
+![alt text](./images/frame_2400.png) 
+![alt text](./images/frame_2520.png) 
+![alt text](./images/frame_2650.png) 
+![alt text](./images/frame_2802.png) 
+![alt text](./images/frame_2894.png) 
+![alt text](./images/frame_2970.png) 
+![alt text](./images/frame_3090.png) 
+![alt text](./images/frame_3122.png) 
+![alt text](./images/frame_3160.png) 
+![alt text](./images/frame_3224.png) 
+![alt text](./images/frame_3226.png) 
+![alt text](./images/frame_3288.png) 
+![alt text](./images/frame_3290.png) 
+![alt text](./images/frame_3418.png) 
+![alt text](./images/frame_3508.png) 
+![alt text](./images/frame_3590.png) 
+![alt text](./images/frame_3750.png) 
+![alt text](./images/frame_4016.png) 
+![alt text](./images/frame_4037.png) 
+![alt text](./images/frame_4140.png) 
+![alt text](./images/frame_4147.png)
+![alt text](./images/frame_4230.png)
 
-![alt text](./images/frame_1266.png)
+中间插入的画面可能是暗示这一段密文的解密方式。花屏处仍可能藏有文字，具体尚待明确。
 
-![alt text](./images/frame_1317.png)
-
-![alt text](./images/frame_1391.png)
-
-![alt text](./images/frame_1440.png)
-
-![alt text](./images/frame_1497.png)
-
-![alt text](./images/frame_1533.png)
-
-![alt text](./images/frame_1580.png)
-
-![alt text](./images/frame_1609.png)
-
-![alt text](./images/frame_1633.png)
-
-![alt text](./images/frame_1712.png)
-
-![alt text](./images/frame_1792.png)
-
-![alt text](./images/frame_1842.png)
-
-![alt text](./images/frame_2000.png)
-
-![alt text](./images/frame_2019.png)
-
-![alt text](./images/frame_2059.png)
-
-![alt text](./images/frame_2074.png)
-
-![alt text](./images/frame_2123.png)
-
-中间插入的画面可能是暗示这一段密文的解密方式。
-
-#### 2242 帧
+#### 4483 帧
 
 ![alt text](./images/frame_2242.png)
 
 Unicode 编码，转写结果为 `有一个地方，跟地面上的世界不一样。那里充满奇幻、神秘和危险。`
 
-2134-2370 帧画面应该出自 Meaning of Life，蜡烛出自 Candles，暂未发现其他线索。
+4324-4701 帧画面应该出自 Meaning of Life，蜡烛出自 Candles，暂未发现其他线索。
 
-白色方块不知道是否是线索。
+此外画面中白色方块整体符合月亮升落轨迹，不清楚是否为进一步线索。
 
-#### 2497 帧
+#### 4926 帧
 
 ![alt text](./images/frame_2497.png)
 
@@ -292,13 +343,17 @@ Unicode 编码，转写结果为 `有一个地方，跟地面上的世界不一�
 
 `%20` 为 url 编码的空格，尚不清楚是否有额外含义。
 
-#### 2566 帧
+此外结尾的 Neuro 发饰为红蓝配色，可能暗示红蓝药丸的意象。
+
+#### 5130 帧
 
 ![alt text](./images/frame_2566.png)
 
 可能是指 ARG 视频 hello, world。
 
 ### 14:30-
+
+此处暂时仍采用 1080p 的旧片源。
 
 #### 1096 帧
 
