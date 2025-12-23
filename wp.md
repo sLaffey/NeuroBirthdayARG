@@ -135,7 +135,16 @@ base64 解码结果：
 
 ![alt text](./images/frame_0728-1.png)
 
-`22yxwFV853+9JyqiNU7Hv+HQ7xMPqFvhQ9y7wm54Lc579S8vWYnPnPNXhBv24MrC9bVL9x5TxpwtYbBzEX23i2pjumCP8Ke57Yx3XuFYxrKhH96QejheeV61rLkvvbe6KXzxSVKxrCT1SgKMMsiVJksPKYsrYXdLYW4DorNbXETeaQipTYKp6JXy1SiMc1WUAdLS3Zrn442dozxqpitidUeagikQHGhkaCA7Lefq3HwcPBALghxeRXzwme3evJTKBU1fp2HnMc2Db5sQQvjASRAUFvwJL17F8PKW3DuSEh3UGxGgPhQdjjWi7rLMdDUjxZr7neF7tfLLMYqQJkDQbcDiDoYu7CBqi7FCpyucPGVqj6GU+CEoQBEjrpsmVxaTRvPy891cdbxqBJQoxK2opukAnKNgSdfFv+2gwtdByKQp3YGt5KBZALZLK4jGvsDttFpLwoTHhdTa5T6xJKpRJwiUGqpcGrLuFhYPotVNDDPzFTWCVPnCNPGMLqJoSESdqFWLoPNjN44ai`
+```
+22yxwFV853+9JyqiNU7Hv+HQ7xMPqFvhQ9y7wm54Lc579S8vWYnPnPNXhBv24
+MrC9bVL9x5TxpwtYbBzEX23i2pjumCP8Ke57Yx3XuFYxrKhH96QejheeV61rLkvvbe6K
+XzxSVKxrCT1SgKMMsiVJksPKYsrYXdLYW4DorNbXETeaQipTYKp6JXy1SiMc1WUAdLS3
+Zrn442dozxqpitidUeagikQHGhkaCA7Lefq3HwcPBALghxeRXzwme3evJTKBU1fp2H
+nMc2Db5sQQvjASRAUFvwJL17F8PKW3DuSEh3UGxGgPhQdjjWi7rLMdDUjxZr7neF7
+tfLLMYqQJkDQbcDiDoYu7CBqi7FCpyucPGVqj6GU+CEoQBEjrpsmVxaTRvPy891cdbxq
+BJQoxK2opukAnKNgSdfFv+2gwtdByKQp3YGt5KBZALZLK4jGvsDttFpLwoTHhdTa
+5T6xJKpRJwiUGqpcGrLuFhYPotVNDDPzFTWCVPnCNPGMLqJoSESdqFWLoPNjN44ai
+```
 
 暂不清楚解密方法。
 
@@ -145,7 +154,7 @@ base64 解码结果：
 
 `Vigenère`，指维吉尼亚密码。
 
-`The key is that the same suffix, with different prefixes, will bring different results.`，不清楚具体用在哪。
+`The key is that the same suffix, with different prefixes, will bring different results.`，与密钥有关。
 
 #### 1729 帧
 
@@ -166,6 +175,12 @@ VeFNicaN+gyKJxvFJpLecNJBfL4jnItf9PIBrUDznwGBPCu3pk6Ucg4jAL5ExHYvp/4C11yTw3gUaSu2
 jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZDEUqcHOX5BHMX+BK/byls90Q7deMn
 ```
 
+#### 1822 帧
+
+![alt text](./images/frame_1822.png)
+
+左上角人物暗示维吉尼亚密码，电脑屏幕中左上浏览器应为 `about:blank` 空白画面，左下浏览器页面为 `app.netlify.com` 的加载页面，有明显的 Netlify 图标。电脑旁有红蓝配色的线条，不清楚进一步含义。
+
 #### 1879 帧
 
 ![alt text](./images/frame_0940.png)
@@ -174,11 +189,23 @@ jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZD
 
 右上角的人物画像暗示维吉尼亚密码，右下角电脑中的画面为 CyberChef。
 
+通过前面对密钥的暗示得到密钥是 `thesamesuffixwithdifferentprefixeswillbringdifferentresults`，解密得到 `Would you like to check out my blog?`
+
+#### 1932 帧
+
+![alt text](./images/frame_1932.png)
+
+也有红蓝配色的线穿过，推测暗示是小白制作了 Neurosama。
+
 #### 1961 帧
 
 ![alt text](./images/frame_1961.png)
 
 `Bm cgu grvywxbxjl fl, wpjs cfy jbac fj iypw pw qtou ul howl.`
+
+同样，解密得到 `If you understand me, then you will be able to find my blog.`
+
+结合最后 Neuro 画面的 url 编码，推测部分解密目标是找到博客网站。再结合 Netlify 图标的线索可以推测该网站部署于 Netlify 上，域名应当为 `*.netlify.app`。
 
 #### 1976-1983 帧
 
@@ -196,7 +223,7 @@ jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZD
 
 ![alt text](./images/frame_0993.png)
 
-主要是右侧两个图片的提示.
+主要是右侧两个图片的提示。
 
 上方的图片数字两两分割后得到 `themoon` 在英文字母表中的顺序，`00` 代表空格。
 
@@ -205,6 +232,8 @@ jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZD
 #### 2135 帧
 
 ![alt text](./images/frame_1068.png)
+
+![alt text](./images/00a081476cef427b28d343e9e0b68ace_720.png)
 
 古文字码，原文以 UTF-8 编码格式存储后由 GBK 格式读取获得，空白部分可能为空格字符或者未定义区域字符，其它地方可直接还原，结合一部分猜测可完整还原原文。
 
@@ -215,6 +244,8 @@ jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZD
 #### 2136 帧
 
 ![alt text](./images/frame_1069.png)
+
+![alt text](./images/c29f5f17ccee1367c052950d8e999d53_720.png)
 
 同上。解密结果为：
 
@@ -269,6 +300,8 @@ Phil 为该手书所用歌曲 The Moon 的主唱，全名 Phil Elvrum，乐队�
 
 ![alt text](./images/frame_1092.png)
 
+![alt text](./images/c40c3f188361a22773342950781d7b0e_720.png)
+
 古文字码。同样手段解读得到 `令人厌恶的自我沦陷和对沦陷本身的迷恋`。
 
 #### 2285 帧
@@ -284,11 +317,17 @@ Phil 为该手书所用歌曲 The Moon 的主唱，全名 Phil Elvrum，乐队�
 
 The Glow 可能是 The Moon 所在专辑 The Glow, Pt. 2 中的一首歌，歌名同样为 The Glow, Pt. 2。
 
+该句可能暗示后面的杂音，同时在[豆瓣乐评](https://music.douban.com/review/15486909/)可以找到原句出处。
+
+![alt text](./images/ff255ae9409181e0fd6564cb7e687bbc.png)
+
+5:37-5:38 处有细微杂音，查看频谱图发现单词 `exhausted`，尚不清楚进一步含义。
+
 #### 2296 帧
 
 ![alt text](./images/frame_1151.png)
 
-图片中间藏有信息。经多张图片 PS 插值混合，可得到文字。
+图片中间藏有信息。经多张图片混合，可得到文字。
 
 ![alt text](./images/cb0b250d0badd6fc8d8f588698f57d40.png)
 
@@ -311,25 +350,41 @@ The Glow 可能是 The Moon 所在专辑 The Glow, Pt. 2 中的一首歌，歌�
 ![alt text](./images/frame_3160.png) 
 ![alt text](./images/frame_3224.png) 
 ![alt text](./images/frame_3226.png) 
-![alt text](./images/frame_3288.png) 
 ![alt text](./images/frame_3290.png) 
+
+该画面由于文字隐藏在噪声中且和底色重叠，比较难以提取。通过在 PS 中将同一画面的所有帧压入堆栈，取堆栈标准差/范围值，调高亮度得到较为容易辨识的图片。
+
+![alt text](./images/res.png)
+
 ![alt text](./images/frame_3418.png) 
 ![alt text](./images/frame_3508.png) 
+
+这里可以看出左上角数字 `0418`，可能对应 ARG 视频 Study 的 04:18，该时间点在简介出现过。
+
+处理一下比较明显。
+
+![alt text](./images/3500-1.png)
+
 ![alt text](./images/frame_3590.png) 
 ![alt text](./images/frame_3750.png) 
 ![alt text](./images/frame_4016.png) 
 ![alt text](./images/frame_4037.png) 
 ![alt text](./images/frame_4140.png) 
 ![alt text](./images/frame_4147.png)
+
+中间闪过的画面可能暗示这一段密文的解密方式，右下角的数字为同一字体，可能是编号一类。第一张左上角可能为 `11003200` 或 `//003200`，第二张左上角为 `000500 -> AES -> ???`。
+
 ![alt text](./images/frame_4230.png)
 
-中间插入的画面可能是暗示这一段密文的解密方式。花屏处仍可能藏有文字，具体尚待明确。
+中间插入的画面可能是暗示这一段密文的解密方式。
 
 #### 4483 帧
 
 ![alt text](./images/frame_2242.png)
 
 Unicode 编码，转写结果为 `有一个地方，跟地面上的世界不一样。那里充满奇幻、神秘和危险。`
+
+原句出自《爱丽丝梦游仙境》，旁边兔子和树洞的意象也与此相符。
 
 4324-4701 帧画面应该出自 Meaning of Life，蜡烛出自 Candles，暂未发现其他线索。
 
@@ -350,6 +405,30 @@ Unicode 编码，转写结果为 `有一个地方，跟地面上的世界不一�
 ![alt text](./images/frame_2566.png)
 
 可能是指 ARG 视频 hello, world。
+
+#### 字幕收集
+
+Study
+
+Fallen down
+
+I'm not like other girls
+
+I'm fine...
+
+I want to be \<???\>
+
+I think I saw a ghost
+
+I've been losing touch
+
+Got myself another test
+
+Why are you crying?
+
+THE MOON
+
+（后接 The Moon 歌词）
 
 ### 14:30-
 
