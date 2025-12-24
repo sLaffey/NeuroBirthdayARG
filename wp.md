@@ -65,7 +65,21 @@ base64 解码结果：
 
 ![alt text](./images/frame_0444-1.png)
 
-`jTX+iZRM08hYS6Lb7v3JcwyYL2cobfHVrITtyjamDuvqL7Scd35Nf4H8T1rdYTBMhRZgQmST1PF/zmTyE0eNNzcVnG95h5/sBgN8XRY4ihPP4chhoFKqkGum0460qwKyoAV8dEiE9PBrcjeLMaCQD6G7RxuzWr2dLXtCOGvyNi09J4ZINbfckJDmc0OC7kMWmgsW2xdl7eGq/5ozd/lteBIG/748+pGEMvYlMHtULHrIfnthz3AJB/1Oi8hPXFxdz8OBe0aQP4suMRBGtAYyzIQs3Hk4j2ob5BJxZDBYNVTa+9Ucky+sxNY0LtAR7HxUTY5rwb+1crYq65OGC9NoN9Zir1UEsZh1WRr/i5yGVBE=`
+```
+jTX+iZRM08
+hYS6Lb7v3Jcwy
+YL2cobfHVrITtyja
+mDuvqL7Scd35Nf4
+H8T1rdYTBMhRZgQm
+ST1PF/zmTyE0eNNzcV
+nG95h5/sBgN8XRY4ihPP
+4chhoFKqkGum0460qwKyoAV8d
+EiE9PBrcjeLMaCQD6G7RxuzWr2dLXtC
+OGvyNi09J4ZINbfckJDmc0OC7kMWmgsW2xdl7e
+Gq/5ozd/lteBIG/748+pGEMvYlMHtULHrIfnthz3AJB/1Oi8hPXFxd
+z8OBe0aQP4suMRBGtAYyzIQs3Hk4j2ob5BJxZDBYNVTa+9Ucky+sx
+NY0LtAR7HxUTY5rwb+1crYq65OGC9NoN9Zir1UEsZh1WRr/i5yGVBE=
+```
 
 暂不清楚解密方法。
 
@@ -162,17 +176,17 @@ BJQoxK2opukAnKNgSdfFv+2gwtdByKQp3YGt5KBZALZLK4jGvsDttFpLwoTHhdTa
 
 ![alt text](./images/frame_1729-1.png)
 
-不太好辨认，以下结果未经核对。
+为什么要用得意黑！！！
 
 ```
-5P7+NY+YOM9NWsDNy4RWk+dqrER8UTre/d15VSDOXXmud+lRytAbF4UalzWWsWjaSQpKgkOjxmcPCR3Te9SkpuQtpaU3GP84Wcu7a//XTg
-Qc12A4F8yPE6vzTBx23h3nlKU2jAirPQIS+QoFDggig0okkaOQTTSOtRrrc6YJIFPOZOZEKhPtPZ67mlVcQR2xtHTMlmSEbL6UoilqcOSusL83ZOUPg
-wyEHvE/jUCEk1j6BXmZotguENfBVzXpY4Hq9V7gKFoKdMmiPQ7Y/ItxXq0vwpdunJaNkPlXr6hhuk9QhcJWuTAaRhGJDhrGgIgfh03TeDRvtrpnpFR
-bldgPQTVFRQHXsRAh7IDtLt78nWfXPGlviUlok21/Gjb7WDJfa49swe3ILBc0YyaAY1jVv7QXWIOscFAZnkIO3ruCYzP23+70JlpWja9M3TrCkYMcqa+
-kfzWZJc+DEYZHlOvW+pmcIgfU8UDsPZ6VjnWF3ZXHMlc+L7QMzd9/ijTJ2hHbxvCwYGVD2NGOXzN7FwkqsCoIUvjEX4aju4oQNnimqPfTpWNlh49
-udeHlp7/KPTaeUJyYF6oQBvaHRt2/Ebb7q6PmQOJlkvXjC9jsOvmgqTSuKXOOr1hW9rwtt9X3t261qtX6LgK3YwnlP/Rp/qtCzoQL2CsypETqL7cfP
-VeFNicaN+gyKJxvFJpLecNJBfL4jnItf9PIBrUDznwGBPCu3pk6Ucg4jAL5ExHYvp/4C11yTw3gUaSu2knPfuAFhqpN691pgLvA6+kokBBau7cFgWF
-jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZDEUqcHOX5BHMX+BK/byls90Q7deMn
+5P7+NY+YOM9NWsDNy4RWk+dqrER8UTre/d15VSDOXXmud+IRytAbF4UalzWWsWJoSQpKgkOjxmcPCR3Te9SkpuQtpaU3GP84Wcu7a//XTg
+Qc12A4F8yPE6vzTBx23h3nIKU2jAlrPQiS+QoFDggig0okkaOQ1TSOtRrrc6YJIFP0Z0ZEKhPtPZ67mLVcQR2xtHTMimSEbL6UoiIqcOSusL83ZOUPg
+wyEHvE/jUCEk1j6BXmZotguENfBVzXpY4Hq9V7gKFoKdMmiPQ7Y/itxXq0vwpdunJaNkPIXr6hhuk9QhcJWuTAaRhGjDhrGg1gfh03TeDRvtrpnpFR
+bldgPQTVFRQHXsRAh7IDtLt78nWfXPGIviUlok21/GJb7WDJfa49swe3iL8c0YyaAYIjVv7QXWIOscFAZnkIO3ruCYzP23+70j1pWja9M3TrCkYMcqa+
+kfzWZJc+DEYZHJOvW+pmc1gfU8UDsPZ6VJnWF3ZXHMlc+L7QMzd9/IjTJ2hHbxvCwYGVD2NGOXzN7FwkqsCo1UvjEX4aJu4oQNnimqPfTpWNh49
+udeHIp7/KPToeUYyF6oQBvaHRt2/Ebb7q6PmOOjIkvXjC9jsOvmgqTSuKX00r1hW9rwtt9X3t261qtX6LgK3YwuP/Rp/qtCzoQL2CsypETqL7cfP
+VeFNIcaN+gyKJxvFJpLecNJBfL4Jn1tf9PlBrUDznwGBPCu3pk6Ucg4jAL5ExHYvp/4C11yTw3gUaSu2knFfuAFhqpN691pgLvA6+kokBBau7cFgWF
+jbQ0gvQ7lDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k91KdRWgYRxwslZDEUqcHOX5BHMX+BK/byls9OQ7deMn
 ```
 
 #### 1822 帧
@@ -187,7 +201,7 @@ jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZD
 
 `Pvydd ksm fnpm qk kalfs tzx dc oedx?`
 
-右上角的人物画像暗示维吉尼亚密码，右下角电脑中的画面为 CyberChef。
+电脑中的画面为 CyberChef。
 
 通过前面对密钥的暗示得到密钥是 `thesamesuffixwithdifferentprefixeswillbringdifferentresults`，解密得到 `Would you like to check out my blog?`
 
@@ -217,7 +231,21 @@ jbQOgvQ7IDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k9IKdRWgYRxwsIZD
 
 ![alt text](./images/frame_0989-1.png)
 
+```plaintext
+r+8I/jrbPUwKulV89gQ4d9kaBuOw+Af9ngfBAU0Aw37/HF+OYq9G30xJmq35emmCRiIiIudV4gvea589iq
+nS35BozQ3qY00IQINCbwMm1V+BDFH97IjjFZ4N3mtAT9YIwnMbYVGm5zRi96MTRZvh2eDFT6Rwb0
+l5reQRRxGguNOla8iIFMwT9wgIFCv4uXkASmfrErlxjHdLmA1im2VNvufpILELdx1S5ELMKTOQlYvPpjS
+WP5tZysxnnkmyizSDep7g/KmS95Lo2cDvlNoSYSRiEvoipQDicJPU+0LbIs607ma5OmFzZKvbgGg8boqr
+```
+
 ![alt text](./images/frame_0991-1.png)
+
+```plaintext
+EOenTf/4jPhpka7c2ATOQZCwKc2L9tYteNs+yFjmoIumUWLJJRaLXcW/U93HOvF1+XWaFERtYkhX3G
+8u8XZ1lGRQpB4EEDymCv1IMKaQ5koyYdUiOcs6WutQLOtId+JW0tXUuS70t6/TuxMirbNdxRD49l6/
+w2glUqx779pjAchu+RPiLIlju7nnHsRbfLuv/0D0YATzssr2zFXmuueq+Hpt0cD9KsTv70TxoTil9IVagpMr0L
+YkbMWQUDz7QNa47HxubnSon5D8yBJLVFVkccIcVleuqhBq0EU5EBdX+Inla9hyAL2eMjMU0E3EbZ9P
+```
 
 #### 1984 帧
 
@@ -340,23 +368,108 @@ The Glow 可能是 The Moon 所在专辑 The Glow, Pt. 2 中的一首歌，歌�
 画面中有不同位置的加密文本，由于视频后期处理效果有些画面难以辨识，尽量挑选出最清晰的一帧。
 
 ![alt text](./images/frame_2400.png) 
+![alt text](./images/frame_2400-1.png)
+
+```
+91eUET19D2WHoRc2C9PZbHQw
+KL3TrJCBv7Ej475v496nbmQb3H
+```
+
 ![alt text](./images/frame_2520.png) 
+![alt text](./images/frame_2520-1.png) 
+
+```
+DRUHNjicyAjuHWKbhUvRw8sK3Xj
+p4r2icfr8dxj62Jh61SSJPkthwFErW
+```
+
 ![alt text](./images/frame_2650.png) 
+
+```
+yUx5EZn8GhskTkfpmTg4uPouWvp
+dETw2PgLDnQCDF4BkPxqMWbvnu
+```
+
 ![alt text](./images/frame_2802.png) 
+![alt text](./images/frame_2802-1.png) 
+
+```
+pg8AkW9ROFldqgisYQZVu08p/mHK0
++FVqVfN/LfM4KjWnLVu178q+YJC22G
+```
+
 ![alt text](./images/frame_2894.png) 
+![alt text](./images/frame_2894-1.png) 
+
+```
+fQctPT9SUObPBp+lo7MArHj6/oHW8N
+gv7SH1SlRHTQIl2U79CIMZe0B5UDY
+```
+
 ![alt text](./images/frame_2970.png) 
+![alt text](./images/frame_2970-1.png) 
+
+```
+uaVe37asuOJN/D
+gxe1V8OHzLR1V2x
+C4iBCB7LIRCjMShd
+JBHUHHs6hjR0bZ
+```
+
+这一帧在之后有闪回。
+
 ![alt text](./images/frame_3090.png) 
+![alt text](./images/frame_3090-1.png) 
+
+```
+ohazfhzIlsCYBXVo0D8j5ZS/GkXOJsMB79hGY7ogogBgE5QWflTzj7bAqo=
+```
+
 ![alt text](./images/frame_3122.png) 
+![alt text](./images/frame_3122-1.png) 
+
+```
+Z1BNTDB1T09jd1Z4WGp1
+OWJtQmlnK0kyS29UYzF
+mYUZzVVBJQlVRcmdjc0Rw
+QjlwY3B3WGtKaHNBa1h
+```
+
 ![alt text](./images/frame_3160.png) 
+
+与上一帧相同。
+
 ![alt text](./images/frame_3224.png) 
+![alt text](./images/frame_3224-1.png) 
+
+```
+UMjdqWEV0d2x2NFkvZU5PNjRkcHdIaGliQURHQ0V
+idVgxuDhDMzE5OVlRZk5wVmJZUm5sc1JLZ2J3eW
+```
+
 ![alt text](./images/frame_3226.png) 
+
+与上一帧相同。
+
 ![alt text](./images/frame_3290.png) 
 
-该画面由于文字隐藏在噪声中且和底色重叠，比较难以提取。通过在 PS 中将同一画面的所有帧压入堆栈，取堆栈标准差/范围值，调高亮度得到较为容易辨识的图片。
+该画面由于文字隐藏在噪声中且和底色重叠，比较难以提取。通过在 PS 中将同一画面的所有帧压入堆栈，取堆栈标准差/范围值，调高亮度得到相对较为容易辨识的图片。
 
 ![alt text](./images/res.png)
 
+```
+9vOEVTbGE1bUxXamd1bXZHK2xMNm9XK1JoVXV6U
+OhaNZhkM3NvUjNsMlKjJkxsNvtuUXpxYWw0Q3pm8
+```
+
 ![alt text](./images/frame_3418.png) 
+![alt text](./images/frame_3418-1.png) 
+
+```
+HFObjJmMnJZUnRtWHIzbXJ0TEoVRGTkc3ZWQW1
+CZEQreno5eElKzJrZU93VnFhNjF6UjhobEJ3cs0=
+```
+
 ![alt text](./images/frame_3508.png) 
 
 这里可以看出左上角数字 `0418`，可能对应 ARG 视频 Study 的 04:18，该时间点在简介出现过。
@@ -366,15 +479,42 @@ The Glow 可能是 The Moon 所在专辑 The Glow, Pt. 2 中的一首歌，歌�
 ![alt text](./images/3500-1.png)
 
 ![alt text](./images/frame_3590.png) 
-![alt text](./images/frame_3750.png) 
-![alt text](./images/frame_4016.png) 
-![alt text](./images/frame_4037.png) 
-![alt text](./images/frame_4140.png) 
+
+![alt text](./images/frame_3590-1.png) 
+
+这一张识读比较困难。
+
+```
+KIsUkoyKdhETIQKaYUoR2BCljkBTk?qJqd3jcwPWEG
++M2C1kvSlMNDcdPeQCWjuheoZ6y76Wk0SlY8Jr77kl
+lYUmWwvJVhTNO0L7MkTGeNvczMHGaS9SAVHWJ
+lCcKt1CZccwJK3QlDnC+ALdDBibiuieMUcWewv+Z
+```
+
+后面图片中的背景文字可能发生了变化，更加难以识别。
+
+![alt text](./images/frame_3750.png)
+![alt text](./images/frame_4016.png)
+![alt text](./images/frame_4037.png)
+![alt text](./images/frame_4140.png)
 ![alt text](./images/frame_4147.png)
 
-中间闪过的画面可能暗示这一段密文的解密方式，右下角的数字为同一字体，可能是编号一类。第一张左上角可能为 `11003200` 或 `//003200`，第二张左上角为 `000500 -> AES -> ???`。
+中间闪过的画面可能暗示这一段密文的解密方式，右下角的数字为同一字体，可能是编号一类。第一张左上角字体为 Bradley Hand ITC，因此文本为 `//003200`，第二张左上角为 `000500 -> AES -> ???`。
 
 ![alt text](./images/frame_4230.png)
+
+![alt text](./images/40a5b7602a686934b746bc7188c4a8eb.png)
+
+```
+BeBMk6qgH9Qh8kHpMT+yEswlYtNbmaxPHQ
+KMUfn1zTsW+cgO9M1RogNPVGc+OAQm8QQT
+69D7mBPNrZwWtzeUGAjYu2t/5s33cp5Rf10dt
+VqDHKy8eDmrco89lC/57VJMNGcjOcD9Dr8J49
+6VMFxIS2lZ/gbgaTJL1a4fGIgM2pY8qlyPJctv
+CmfHiFJ6NnxDr6qYJHG6Tnwek8z/NYPI8Q6pa
+0w8YZs+kd3MvlVtLqKSkEIGfzQ25qV/JV2eW7X
+FIbVmx35LjMCxxgxTeRtEIjer2EXCGCUDzyxc=
+```
 
 中间插入的画面可能是暗示这一段密文的解密方式。
 
@@ -412,19 +552,35 @@ Study
 
 Fallen down
 
+> 在 ARG 视频《Study》的简介出现过，对应的时间为 04:18 和 21:48。在简介的 13:27 和 30:39 出现过倒置的版本。
+
 I'm not like other girls
+
+> 在同一视频的简介中出现，对应时间点为 13:58。在 Fallen Down 的歌词中也出现了。
 
 I'm fine...
 
+> 在同一视频的简介中出现，对应时间点为 31:10。在 I Don't Want to Be an Engineer 和 Fallen Down 的歌词中均出现了。
+
 I want to be \<???\>
+
+> 未找到来源。
 
 I think I saw a ghost
 
+> 在同一视频的简介中出现，对应时间点为 07:43 和 25:14。同时也在 I Think I Saw a Ghost 的歌词中出现。
+
 I've been losing touch
+
+> 在 I Think I Saw a Ghost 的歌词中出现了，大概在原视频的 08:01 - 08:03。
 
 Got myself another test
 
+> 在 Fallen Down 的歌词中出现了，且不止一次。
+
 Why are you crying?
+
+> 这句话出现在 ARG 视频《Public Static Void》里。原文是日语，不过这句话和官方英文翻译一致，大约位于该视频的 00:26。
 
 THE MOON
 
