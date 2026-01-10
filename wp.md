@@ -2,6 +2,8 @@
 
 ## 生日会回放
 
+取名太麻烦了叫你 themoon1/m1 吧。
+
 以 b 站 4K 缓存片源下载后分时段提取的所有帧为准，重新整理一下线索。
 
 由于此前依 Web 端解析下载的 1080p 片源整理过，对清晰度要求不高的地方不会更新图源，仅更新帧位置。
@@ -209,7 +211,7 @@ jbQ0gvQ7lDcXK2avzDdsA+CcHUtz5jGCSZPTMwurPNN46eX44SAtbVV5yLHY00r/k91KdRWgYRxwslZD
 
 ![alt text](./images/frame_1932.png)
 
-也有红蓝配色的线穿过，推测暗示是小白制作了 Neurosama。
+也有红蓝配色的线穿过，推测暗示是 study 制作了 Neurosama。
 
 #### 1961 帧
 
@@ -267,7 +269,7 @@ YkbMWQUDz7QNa47HxubnSon5D8yBJLVFVkccIcVleuqhBq0EU5EBdX+Inla9hyAL2eMjMU0E3EbZ9P
 
 红色乱码原文为 `红色药丸代表揭示真相，接受残酷的现实`，蓝色乱码原文为 `蓝色药丸则意味着回到原先的生活并保持对世界的错觉`。
 
-此处两句话出自电影《黑客帝国》的经典台词，结合附近画面可以知道小白选择了蓝色药丸，尚不明确进一步的含义。
+此处两句话出自电影《黑客帝国》的经典台词，结合附近画面可以知道 study 选择了蓝色药丸，尚不明确进一步的含义。
 
 #### 2136 帧
 
@@ -322,7 +324,7 @@ YkbMWQUDz7QNa47HxubnSon5D8yBJLVFVkccIcVleuqhBq0EU5EBdX+Inla9hyAL2eMjMU0E3EbZ9P
 见。
 ```
 
-Phil 为该手书所用歌曲 The Moon 的主唱，全名 Phil Elvrum，乐队名称为 The Microphones，在 2004 年更名为 Mount Eerie。
+Phil 为该手书所用歌曲 The Moon 的主唱，全名 Phil Elvrum，乐队名称为 The Microphones，在 2004 年更名为 Mount Eerie。该段文字出自豆瓣关于《The Moon》的乐评。
 
 #### 2185 帧
 
@@ -330,7 +332,7 @@ Phil 为该手书所用歌曲 The Moon 的主唱，全名 Phil Elvrum，乐队�
 
 ![alt text](./images/c40c3f188361a22773342950781d7b0e_720.png)
 
-古文字码。同样手段解读得到 `令人厌恶的自我沦陷和对沦陷本身的迷恋`。
+古文字码。同样手段解读得到 `令人厌恶的自我沦陷和对沦陷本身的迷恋`。该段文字同样出自豆瓣。
 
 #### 2285 帧
 
@@ -619,6 +621,8 @@ base64 解码结果为 `Wait, wait, until things change with time.`
 
 ## 单品投稿
 
+取名太麻烦了叫你 themoon2/m2 吧。
+
 所有帧均相同，取第一帧。
 
 ![alt text](./images/frame_0001.png)
@@ -630,3 +634,207 @@ base64 解码结果为 `Wait, wait, until things change with time.`
 执行结果
 
 ![alt text](./images/5520aee7557fae7e7ced2911bdcf09af.png)
+
+## 完整单品投稿
+
+取名太麻烦了叫你 themoon3/m3 吧。
+
+这次手书总体看起来像是 m1 的不同视角。
+
+片源采用 b 站 1080p 60 帧缓存。
+
+### 145-159 帧
+
+![alt text](./images/m3_frame0159.png)
+
+![alt text](./images/m3_frame0159-1.png)
+
+```plaintext
+Vm10amVFMUhWblJVYmtwclVrWndXRmxzWkc5Vk1WSldW
+bGhrYkZKc2JEVlVWbFpyWVRGYVZWWnNhRnBOUjJoMldW
+VmtSMk14U2xsYVJscFhVbFZ3VEZaR1dtRlZNVTVYVTJ4V
+1ZHRjZiSEJWTUZaS1pERmFXRTFZWkZkaGVrWllXV3RhYT
+FWc1drWmpSbHBXVmtVMVZGa3hXbE5qYkZaelZHeE9VMkV
+4Y0RSV2JUQXhZVEZzVjFkWWNGcE5NbWhaVm01d1IyVldV
+bFpXVkVaWFlsWmFTbGxWV2xkaVIwcEpVV3M1Vm1Wck5UT
+ldSM040VjBaT1dWcEdWbWxYUmtwUlZtMTRiMkl5VVhoal
+JWcFdZa2RTYzFadGMzaE5NV3gxWTBWa2FHSlZWalpXVnp
+WaFZsZEZlRk5zVWxaaE1YQkhXa1JHVjJNeFRuUmpSMnhZ
+VWpKbmVsWnJZekZrTWtWNVZGaHNVMkpHV2xoWldIQkhZM
+FpaZDFkcmRFNWlSbkJIV1ZWV1QxUnNXbkpOVkZaV1RXcF
+djbGRXVlhoWFIxSkZWMnh3YUUxdGFGbFdWRW8wVmpGT1J
+rNVdiR2xTYkVwd1ZXMTBkbVZXWkZWVFZFWlVUVlZ3V1ZV
+eGFIZFZiRnBHVjJ4YVZtSnVRbnBhVmxwaFVteFdjazlY
+Y0ZkaVZHdDZWMWQwVjJReFZsZFdiRlpPVWtkek9RPT0=
+```
+
+嵌套了七层 Base64，解密得到一小段话：
+
+```plaintext
+课堂喧嚣、人际疏远、日常于迷思中沉没。
+勾勒涂鸦遍布笔记角落。
+```
+
+对应前一个画面的场景。
+
+### 374-388 帧
+
+![alt text](./images/m3_frame0388.png)
+
+![alt text](./images/m3_frame0388-1.png)
+
+```plaintext
+&#106;&#88;&#75;&#112;&#87;&#114
+;&#47;&#57;&#71;&#89;&#89;&#76;
+&#90;&#54;&#81;&#85;&#83;&#49;&#1
+19;&#76;&#86;&sol;&#67;&#77;&#50
+;&#68;&#115;&#53;&#100;&#109;&#6
+9;&#67;&#101;&#70;&#69;&#119;&#1
+16;&#110;&#57;&#87;&#70;&#77;&#8
+1;&#102;&#72;&#115;&#48;&#53;&#1
+10;&#88;&#66;&#75;&#76;&#79;&#11
+0;&#99;&#55;&#55;&#84;&#83;&#82;
+&#69;&#122;&#98;&#90;&#54;&#67;&
+#76;&#97;&#54;&#109;&#74;&#56;&#
+104;&#51;&#65;&#116;&#88;&#121;&
+#66;&#118;&#112;&#86;&#106;&#83;
+&#48;&#53;&#71;&#106;&#86;&#53;&
+#78;&#51;&#105;&#73;&#86;&#74;&#
+87;&#119;&#108;&#66;&#115;&#113;
+&#77;&#107;&#104;&#78;&#52;&#78;
+&#109;&#103;&#51;&#56;&#107;&#69
+;&#85;&#51;&#87;&#112;&#104;&#82
+;&sol;&#50;&#77;&#70;&#87;&#88;&
+#86;&#111;&#81;&#73;&#87;&#90;&#
+112;&#65;&#48;&#70;&#71;&#56;&#6
+7;&#88;&#107;&#113;&#118;&#81;&#
+105;&#83;&#107;&#76;&#75;&#85;&#
+103;&#108;&#110;&sol;&#122;&#90;
+&#66;&#102;&#119;&#86;&#100;&#71
+;&#110;&#110;&#75;&#97;&#115;&#1
+11;&#112;&#107;&#84;&#75;&#90;&#
+68;&#102;&#89;&#119;&#57;&#116;&
+#80;&#66;&#113;&#53;&#74;&#102;&
+#99;&plus;&#84;&plus;&#119;&#51;
+```
+
+删去换行符：
+
+```plaintext
+&#106;&#88;&#75;&#112;&#87;&#114;&#47;&#57;&#71;&#89;&#89;&#76;&#90;&#54;&#81;&#85;&#83;&#49;&#119;&#76;&#86;&sol;&#67;&#77;&#50;&#68;&#115;&#53;&#100;&#109;&#69;&#67;&#101;&#70;&#69;&#119;&#116;&#110;&#57;&#87;&#70;&#77;&#81;&#102;&#72;&#115;&#48;&#53;&#110;&#88;&#66;&#75;&#76;&#79;&#110;&#99;&#55;&#55;&#84;&#83;&#82;&#69;&#122;&#98;&#90;&#54;&#67;&#76;&#97;&#54;&#109;&#74;&#56;&#104;&#51;&#65;&#116;&#88;&#121;&#66;&#118;&#112;&#86;&#106;&#83;&#48;&#53;&#71;&#106;&#86;&#53;&#78;&#51;&#105;&#73;&#86;&#74;&#87;&#119;&#108;&#66;&#115;&#113;&#77;&#107;&#104;&#78;&#52;&#78;&#109;&#103;&#51;&#56;&#107;&#69;&#85;&#51;&#87;&#112;&#104;&#82;&sol;&#50;&#77;&#70;&#87;&#88;&#86;&#111;&#81;&#73;&#87;&#90;&#112;&#65;&#48;&#70;&#71;&#56;&#67;&#88;&#107;&#113;&#118;&#81;&#105;&#83;&#107;&#76;&#75;&#85;&#103;&#108;&#110;&sol;&#122;&#90;&#66;&#102;&#119;&#86;&#100;&#71;&#110;&#110;&#75;&#97;&#115;&#111;&#112;&#107;&#84;&#75;&#90;&#68;&#102;&#89;&#119;&#57;&#116;&#80;&#66;&#113;&#53;&#74;&#102;&#99;&plus;&#84;&plus;&#119;&#51;
+```
+
+为 HTML 实体编码，解码得到：
+
+```plaintext
+jXKpWr/9GYYLZ6QUS1wLV/CM2Ds5dmECeFEwtn9WFMQfHs05nXBKLOnc77TSREzbZ6CLa6mJ8h3AtXyBvpVjS05GjV5N3iIVJWwlBsqMkhN4Nmg38kEU3WphR/2MFWXVoQIWZpA0FG8CXkqvQiSkLKUgln/zZBfwVdGnnKasopkTKZDfYw9tPBq5Jfc+T+w3
+```
+
+可能经 AES 加密，需要进一步线索。
+
+### 569-577 帧
+
+![alt text](./images/m3_frame0577.png)
+
+右侧 `rot9+10`。
+
+### 580-627 帧
+
+![alt text](./images/m3_frame0601.png)
+
+![alt text](./images/m3_frame0601-1.png)
+
+```plaintext
+NGuBY2jV2jTe7r3Ey/Pbtbwd1kLlXewhMyP9km7FvO5xo5py
+PXaaFmLwFWIqlP1RIGjbsuyBAC5qo9OCbZ9IUMcYFzNAAXpr
+UV3cNxly5/nEqgZb3Hl/zXKNtm0FMmhaNqERRKeXT+4CWWi3
++ZJdjCYLS7ccQ9egakwQSG0XT2ifCtLibzu90kYCaUqFldvt
+```
+
+无法直接解密。同样可能经 AES 加密，需要进一步线索。
+
+### 677-751 帧
+
+![alt text](./images/m3_frame0750.png)
+
+`Find it down in hell.`
+
+此处对应 m1 的 `Would you like to check out my blog?`。
+
+~~没偷摸骂我两句吧~~
+
+### 804-873 帧
+
+![alt text](./images/m3_frame0854.png)
+
+对应 m1 的 1984 帧处，此处右侧为空白，可以印证确认 m1 对应处为解密有关提示。
+
+### 964-
+
+后面人声部分基本和 m1 的场景是对应的。联合起来看的话，似乎讲述了 Study 去往了一些地方，最后到 Meaning of Life 的场景和她的工作室内，将自己与 Neurosama 连接。结合最后的 `hello, world` 来看的话，或许讲述了类似于 NeuroARG 的剧情。不过以上都只是猜测。
+
+另外值得注意的是，此处除了出现 The Moon 的歌词外，还出现了 In Hell We Live, Lament 的歌词。尚不清楚含义。
+
+此外，在 m1 中出现的闪回在此处也有出现，不过内容似乎并无差异，因此不再单独列出。
+
+密文部分单独列出。
+
+### 1394-1426 帧
+
+![alt text](./images/m3_frame1426.png)
+
+```plaintext
+······
+濂圭殑瑙
+嗚□鐮寸□璺
+宠穬锛□_
+涓€鍒囧瓨
+鍦凵兘绐佸厐
+鑰岃垂瑙○紝
+...
+```
+
+原文为：
+
+```
+······
+她的视觉破碎跳跃，
+一切存在都突兀而费解，
+...
+```
+
+值得注意的是该原文转成乱码后少了一个 `_`，考虑到可能是打印提示符，应该影响不大。
+
+### 1944-1971 帧
+
+![alt text](./images/m3_frame1953.png)
+
+可以看到有密文，但似乎并不全。反色后发现右侧和下方被色块遮挡，有些可疑。
+
+![alt text](./images/m3_frame1953-1.png)
+
+```plaintext
+W50aWwgdGhpbmdzIGNodCwg
+d2FpdCwgdV2FpdCwgd2FpdCe?
+CBoZXJlIGrid2UgbGlh82QdjcIHR
+4=nkgd2ZSBpbiBoZWxs29yZCun
+BoZty0LCB5ZXQgd2UgbpdCwg?
+W50aWimV2ZXIgbGFtZwgdGyd?
+FudC4==3iW50Lg==u2avUiv8wr
+mdzIGNoYW5nW50ZSB3aXRoIH
+dCwgdW5tcG9HNvlGltcGyudC4=
+```
+
+可以明显地看到中间有部分加粗。截取这一部分文本得到 
+
+```plaintext
+d2UgbGl2ZSBpbiBoZWxsLCB5ZXQgd2UgbmV2ZXIgbGFtZW50Lg==
+```
+
+解密得到
+
+```plaintext
+we live in hell, yet we never lament.
+```
+
+那其它部分有没有用呢？不清楚，只知道如果凑一凑对齐的话，可以翻译出零散的词句，可能出现 `Until things cht, wait, wait, wait` `gs chang` `with w` `so impl®t.` 等等意味不明的片段。个人倾向于可能没什么用处。
