@@ -643,6 +643,27 @@ base64 解码结果为 `Wait, wait, until things change with time.`
 
 片源采用 b 站 1080p 60 帧缓存。
 
+### 视频简介
+
+```plaintext
+ZGVmIGVuY3J5cHRfYWxsKHBsYWludGV4dCk6DQogICAgcmVzdWx0ID0gW10NCiAgICANCiAgICByZXN1bHQuYXBwZW5kKGVuY3J5cHQocGxhaW50ZXh0WzBdLCAwKSkNCiAgICANCiAgICBmb3IgaSBpbiByYW5nZSgxLCBsZW4ocGxhaW50ZXh0KSk6DQogICAgICAgIHByZXYgPSBwbGFpbnRleHRbaS0xXQ0KICAgICAgICByZXN1bHQuYXBwZW5kKGVuY3J5cHQocGxhaW50ZXh0W2ldLCBwcmV2KSkNCiAgICANCiAgICByZXR1cm4gcmVzdWx0
+```
+
+解密得到一段 Python 代码：
+
+```python
+def encrypt_all(plaintext):
+    result = []
+    
+    result.append(encrypt(plaintext[0], 0))
+    
+    for i in range(1, len(plaintext)):
+        prev = plaintext[i-1]
+        result.append(encrypt(plaintext[i], prev))
+    
+    return result
+```
+
 ### 145-159 帧
 
 ![alt text](./images/m3_frame0159.png)
