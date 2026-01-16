@@ -14,11 +14,9 @@
 
 ![alt text](./images/frame_0221.png)
 
-有二维码，手绘重建后扫描结果为 `themoon`。
+有二维码，手绘重建后顺时针旋转 90 度得到原图，扫描结果为 `themoon`。
 
 ![alt text](./images/qrcode1-1.png)
-
-但是除了微信好像别的扫不太出来不知道为什么。
 
 右下角的密文
 
@@ -753,6 +751,14 @@ jXKpWr/9GYYLZ6QUS1wLV/CM2Ds5dmECeFEwtn9WFMQfHs05nXBKLOnc77TSREzbZ6CLa6mJ8h3AtXyB
 
 可能经 AES 加密，需要进一步线索。
 
+### 501-503 帧
+
+![alt text](./images/m3_frame0503.png)
+
+`(3x+1)`
+
+尚不清楚进一步线索。
+
 ### 569-577 帧
 
 ![alt text](./images/m3_frame0577.png)
@@ -825,6 +831,12 @@ UV3cNxly5/nEqgZb3Hl/zXKNtm0FMmhaNqERRKeXT+4CWWi3
 ```
 
 值得注意的是该原文转成乱码后少了一个 `_`，考虑到可能是打印提示符，应该影响不大。
+
+### 1542-1566 帧
+
+![alt text](./images/m3_frame1566.png)
+
+背景中有文本 `%20in%20hell`。考虑到 m1 结尾中发现的同为 url 编码的 `I%20have%20a%20song%20that%20I%20never%20tire%20of%20listening%20to`，猜测应该拼接成一段完整的文本 `I%20have%20a%20song%20that%20I%20never%20tire%20of%20listening%20to%20in%20hell`。
 
 ### 1944-1971 帧
 
